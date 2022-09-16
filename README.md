@@ -1,2 +1,2 @@
-# full_protection
-This is Mój super nowy projekt
+# gradle_template
+This is testow2o12345
